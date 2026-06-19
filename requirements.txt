@@ -1,0 +1,10 @@
+tensorflow==2.10.0
+scikit-learn==1.4.2
+pandas==2.2.3
+numpy==1.26.4
+pyarabic==0.6.15
+fastapi==0.128.8
+uvicorn==0.39.0
+gradio==4.44.1
+matplotlib==3.9.4
+seaborn==0.13.2
